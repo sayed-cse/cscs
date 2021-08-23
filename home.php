@@ -119,7 +119,7 @@
 			</li>
 		</ul>	
 	</article>
-	<p class="clr_b fr pad"><span class="prev"></span>     <span class="next"></span></p>
+	<p class="clr_b fr pad"><span class="prev"></span> <span class="next"></span></p>
 </section>
 <section class="row">        
 	<article class="rc12">
